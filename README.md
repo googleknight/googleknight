@@ -50,12 +50,7 @@ I thrive on giving back to the ecosystem. My contributions are live in these 3 m
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" height="190em" />
-  <img src="profile-summary-card-output/tokyonight/1-contribution-graph.svg" height="190em" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="190em" />
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="190em" />
+  <img src="https://raw.githubusercontent.com/googleknight/googleknight/output/github-metrics.svg" />
 </p>
 
 ---
