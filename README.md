@@ -41,9 +41,9 @@ I am a software engineer focused on architecting resilient, secure-by-default sy
 
 I thrive on giving back to the ecosystem. My contributions are live in these 3 major places:
 
-1.  🍎 **Apple**: Contributed to the `password-manager-resources` to improve web security standards.
-2.  🏦 **Wise**: Contributed to `pipelinewise`, an open-source framework for data pipelines.
-3.  📝 **Reactive Resume**: Enhanced the CV import/export features for one of the most popular open-source resume builders.
+1.  🍎 **Apple**: [Fixed a critical XSS vulnerability](https://github.com/apple/password-manager-resources/pull/1019) in the `password-manager-resources` to improve web security standards.
+2.  🏦 **Wise**: [Fixed a data-loss bug](https://github.com/transferwise/pipelinewise/pull/1263) in `pipelinewise` related to MySQL binlog filename comparisons.
+3.  📝 **Reactive Resume**: [Resolved a UI crash](https://github.com/AmruthPillai/Reactive-Resume/pull/1978) in the profile picture editor for one of the most popular open-source resume builders.
 
 ---
 
