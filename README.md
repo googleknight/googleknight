@@ -50,7 +50,7 @@ I thrive on giving back to the ecosystem. My contributions are live in these 3 m
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/googleknight/googleknight/output/github-metrics.svg" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=googleknight&cc=7b61ff&tc=ffffff&ic=7b61ff&bc=16161e" />
 </p>
 
 ---
