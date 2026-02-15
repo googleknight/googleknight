@@ -14,9 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24f1tk/github-profile-summary-cards@v2.3.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env: # Pass the Personal Access Token to fetch private contributions
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          username: ${{ github.repository_owner }}
-          theme: tokyonight
+          USERNAME: ${{ github.repository_owner }}
