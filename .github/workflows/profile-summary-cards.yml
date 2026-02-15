@@ -1,0 +1,22 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24f1tk/github-profile-summary-cards@v2.3.1
+        env: # Pass the Personal Access Token to fetch private contributions
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          theme: tokyonight
