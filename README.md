@@ -1,19 +1,19 @@
 # Hi, I'm Shubham Mathur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=7B61FF&width=500&lines=Building+Resilient+Systems+at+Scale;Identity+%26+Data+Privacy+Architect;Distributed+Systems+Enthusiast;Full+Stack+Engineering+Leader" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=7B61FF&width=800&lines=Staff+Software+Engineer+at+Civilgrid;Building+Resilient+Systems+at+Scale;Identity+%26+Data+Privacy+Architect;Distributed+Systems+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ### � About Me
 
-I am a software engineer focused on architecting resilient, secure-by-default systems that protect millions of users. My expertise lies in high-stakes modernization, decoupling complex legacy monoliths into distributed microservices, and building zero-trust compliance frameworks.
+I am a Staff Software Engineer at Civilgrid (APAC), previously at Vimeo and McKinsey. I am focused on architecting resilient, secure-by-default systems that protect millions of users. My expertise lies in high-stakes modernization, decoupling complex legacy monoliths into distributed microservices, and building zero-trust compliance frameworks.
 
 - 🏗️ **Core Philosophy**: Building architecture that is "Secure by Default" and "Resilient under Pressure."
 - 🛡️ **Focus**: Identity Management, Data Privacy, and Zero-Trust Architectures.
 - 🎓 **Research**: Published author in invisible digital image watermarking (Fragile Watermarking) at IEEE ICACCI.
-- 🌍 **Open Source**: Active contributor to projects by Apple, Wise, and the community.
+- 🌍 **Open Source**: Active contributor to projects by Stripe, Apple, Wise, and the community.
 
 ---
 
@@ -39,11 +39,21 @@ I am a software engineer focused on architecting resilient, secure-by-default sy
 
 ### 🌍 Open Source Contributions
 
-I thrive on giving back to the ecosystem. My contributions are live in these 3 major places:
+I thrive on giving back to the ecosystem. My contributions are live in these major projects:
 
-1.  🍎 **Apple**: [Fixed a critical XSS vulnerability](https://github.com/apple/password-manager-resources/pull/1019) in the `password-manager-resources` to improve web security standards.
-2.  🏦 **Wise**: [Fixed a data-loss bug](https://github.com/transferwise/pipelinewise/pull/1263) in `pipelinewise` related to MySQL binlog filename comparisons.
-3.  📝 **Reactive Resume**: [Resolved a UI crash](https://github.com/AmruthPillai/Reactive-Resume/pull/1978) in the profile picture editor for one of the most popular open-source resume builders.
+1.  💳 **Stripe** (`stripe-cli`): [Fixed a stdio teardown race](https://github.com/stripe/stripe-cli/pull/1580) to prevent silent output truncation during plugin execution.
+2.  💳 **Stripe** (`link-cli`): [Hardened the React-Ink approval polling flow](https://github.com/stripe/link-cli/pull/95) to ensure clean exits on terminal states for spend requests.
+3.  🍎 **Apple**: [Fixed a critical XSS vulnerability](https://github.com/apple/password-manager-resources/pull/1019) in the `password-manager-resources` to improve web security standards.
+4.  🏦 **Wise**: [Fixed a data-loss bug](https://github.com/transferwise/pipelinewise/pull/1263) in `pipelinewise` related to MySQL binlog filename comparisons.
+5.  📝 **Reactive Resume**: [Resolved a UI crash](https://github.com/AmruthPillai/Reactive-Resume/pull/1978) in the profile picture editor for one of the most popular open-source resume builders.
+
+---
+
+### 🚀 Featured Personal Projects
+
+1. 🍔 **Food Delivery Service**: [Developer Portal](https://googleknight.github.io/Food-delivery-Service/) - A production-ready REST API featuring a comprehensive developer portal, end-to-end RBAC authentication, and extensive specs-driven agentic development.
+2. ⚙️ **Mini Workflow Engine**: [GitHub Repo](https://github.com/googleknight/mini-workflow-engine) - A full-stack workflow automation engine (similar to Zapier) built to handle multi-step workflows triggered via HTTP with robust execution and automatic retries.
+3. 🔗 **CRDT Library**: [GitHub Repo](https://github.com/googleknight/crdt-lib) - A TypeScript library for building distributed systems without conflicts, featuring chaos-tested data structures.
 
 ---
 
