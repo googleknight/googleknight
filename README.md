@@ -1,17 +1,17 @@
 # Hi, I'm Shubham Mathur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=7B61FF&width=800&lines=Staff+Software+Engineer+at+Civilgrid;Building+Resilient+Systems+at+Scale;Identity+%26+Data+Privacy+Architect;Distributed+Systems+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=7B61FF&width=800&lines=Staff+Software+Engineer+at+Civilgrid;Full-Stack+with+a+Backend+Lean;Application+Security+%26+Identity;Distributed+Systems+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### � About Me
+### 💻 About Me
 
-I am a Staff Software Engineer at Civilgrid (APAC), previously at Vimeo and McKinsey. I am focused on architecting resilient, secure-by-default systems that protect millions of users. My expertise lies in high-stakes modernization, decoupling complex legacy monoliths into distributed microservices, and building zero-trust compliance frameworks.
+I'm a full-stack engineer with a backend lean, currently a Staff Software Engineer at Civilgrid and previously at Vimeo and McKinsey. I'm drawn to problems where scale runs into real-world constraints: security, compliance, and systems that can't afford to be wrong. Most of my work is distributed systems, identity and auth, and the platforms underneath them, but I ship the frontend that sits on top when a problem needs it end to end.
 
 - 🏗️ **Core Philosophy**: Building architecture that is "Secure by Default" and "Resilient under Pressure."
-- 🛡️ **Focus**: Identity Management, Data Privacy, and Zero-Trust Architectures.
+- 🛡️ **Focus**: Application security, identity management, and platform migrations that ship without downtime.
 - 🎓 **Research**: Published author in invisible digital image watermarking (Fragile Watermarking) at IEEE ICACCI.
 - 🌍 **Open Source**: Active contributor to projects by Stripe, Apple, Wise, and the community.
 
@@ -26,14 +26,19 @@ I am a Staff Software Engineer at Civilgrid (APAC), previously at Vimeo and McKi
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-**Expertise**: Microservices • DDD • Event-Driven Architecture • Web Security (CSP/XSS) • gRPC • OAuth 2.0 • Data Privacy
-**Familiar**: Go • PHP • Java • Python • Spring Boot • FastAPI • AWS • Azure • Kubernetes
+**Expertise**: Application Security (SQLi / SSRF / IDOR defense, dependency triage) • Microservices • DDD • Event-Driven Architecture • Web Security (CSP/XSS) • E2E Testing • gRPC • OAuth 2.0 • Data Privacy
+**Familiar**: Go • PHP • Java • Python • Spring Boot • FastAPI • Azure • Kubernetes
 
 ---
 
