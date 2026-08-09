@@ -58,7 +58,7 @@ I thrive on giving back to the ecosystem. My contributions are live in these maj
 
 1. 🍔 **Food Delivery Service**: [Developer Portal](https://googleknight.github.io/Food-delivery-Service/) - A production-ready REST API featuring a comprehensive developer portal, end-to-end RBAC authentication, and extensive specs-driven agentic development.
 2. ⚙️ **Mini Workflow Engine**: [GitHub Repo](https://github.com/googleknight/mini-workflow-engine) - A full-stack workflow automation engine (similar to Zapier) built to handle multi-step workflows triggered via HTTP with robust execution and automatic retries.
-3. 🔗 **CRDT Library**: [GitHub Repo](https://github.com/googleknight/crdt-lib) - A TypeScript library for building distributed systems without conflicts, featuring chaos-tested data structures.
+3. 🌿 **SK Nursery & Garden Works**: [Live Site](https://sknursery.netlify.app) · [GitHub Repo](https://github.com/googleknight/sk-nursery-site) - A zero-cost, SEO-optimized showcase site for a Bengaluru landscaping business, featuring a build-time Sharp pipeline that cuts image payloads by ~85%, dynamic JSON-LD structured data, and a WhatsApp lead funnel.
 
 ---
 
